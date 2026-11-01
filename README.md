@@ -12,4 +12,4 @@ Dalam program Kalkulator IP Plus/Minus ini, higher-order function digunakan pada
 Error handling digunakan untuk menangani kesalahan saat pengguna memasukkan data. Contohnya terdapat pada fungsi periksaSks() dan periksaNilai() yang melakukan pengecekan terhadap input SKS dan nilai. Jika data tidak sesuai, program akan menghasilkan exception. Kesalahan tersebut kemudian ditangani menggunakan try-catch pada bagian main(), yaitu on FormatException catch dan on Exception catch. Dengan begitu, program tidak langsung berhenti ketika pengguna memasukkan data yang salah, tetapi menampilkan pesan kesalahan dan melanjutkan proses.
 
 ## Penggunaan AI
-Penggunaan AI pada tugas rutin 3 ini adalah untuk membantu saya dalam memahami apa yang dikerjakan.
+Penggunaan AI pada tugas rutin 3 ini adalah untuk membantu saya dalam memahami langkah-langkah pengerjaan tugas.
